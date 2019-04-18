@@ -1,4 +1,4 @@
-#Sample DDD - NLayer with TypeScript
+#Sample of Hexagonal Architecture with TypeScript
 
 Runing the sample:
 
